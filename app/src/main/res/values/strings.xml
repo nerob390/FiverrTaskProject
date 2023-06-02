@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FiverrTaskProject</string>
+    <string name="click_to_change">Click to change</string>
+    <string name="click_the_button">Click the button</string>
+    <string name="cloud_messaging">Cloud messaging</string>
+    <string name="cloud_key">AAAAxVudQv0:APA91bHNEej0ZnZSZfrcgXX7cWOS1B6ucHRk-_GpY-NfnzNzVobcOadLWxwabw4Ra49wahwEPJOZF6eeTtYDMkIrcXiTP2ooDGpsEDQGUbclHXtZUZuDGzFxMRtcPdaK_aq4diddNJOS</string>
+    <string name="default_notification_channel_id">test_fiver_app</string>
+
+    <string name="msg_token_fmt">
+        Token: %s
+    </string>
+
+</resources>
